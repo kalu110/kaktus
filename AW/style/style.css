@@ -1,0 +1,43 @@
+.dashnav{
+    background-color:grey;
+    color:white;
+    padding:15px;
+    
+}
+.dashnav img{
+    width:25px;
+    height: 25px;
+}
+.labeldash a{
+    color:white;
+    font-size: 17px;
+    font-weight: bolder;
+   
+}
+.labeldash a:hover{
+   text-decoration: none;
+}
+.dashnav div:hover{
+    letter-spacing: 3px;
+}
+
+
+.active{
+    border-left: 3px solid white;
+}
+.homeca img{
+    width:50px;
+    height: 50px;
+}
+
+
+#myInput {
+   
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+  }
